@@ -1,12 +1,12 @@
 {
   "expo": {
     "name": "Guts Lyric App",
-    "description": "Guts Lyric App is a lyrics search app, fetching data from Deezer an Lyrics.ovh. Designed with Adobe XD and built with Expo, by Stephen Kempin. https://github.com/SKempin/Lyrics-King-React-Native",
+    "description": "Guts Lyric App is a lyrics search app, fetching data from Deezer an Lyrics.ovh. Designed with Adobe XD and built with Expo, by Stephen Kempin. https://github.com/ThatGuySam/Lyric-Example-App",
     "icon": "./assets/images/icon.png",
     "slug": "lyrics-king",
     "sdkVersion": "32.0.0",
     "platforms": ["ios", "android"],
-    "githubUrl":"https://github.com/SKempin/Lyrics-King-React-Native",
+    "githubUrl":"https://github.com/ThatGuySam/Lyric-Example-App",
     "orientation": "portrait",
     "privacy": "public",
     "primaryColor": "#07CCBA",
@@ -21,7 +21,7 @@
       "googleAnalytics": "UA-131961084",
       "social": {
         "expoApp": "https://expo.io/@skempin/lyrics-king",
-        "github": "https://github.com/SKempin/Lyrics-King-React-Native",
+        "github": "https://github.com/ThatGuySam/Lyric-Example-App",
         "googlePlayStore": "https://play.google.com/store/apps/developer?id=SK+-+UK",
         "iTunesStore": "https://www.stephenkempin.co.uk",
         "portfolio": "https://www.stephenkempin.co.uk"

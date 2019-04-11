@@ -13,7 +13,7 @@ Built as a personal training project for [React Native](https://facebook.github.
 
 ### [Expo Demo Link](https://expo.io/@skempin/lyrics-king)
 
-<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/header-overview.jpg" width="900"  alt="Guts Lyric App - React Native Expo app">
+<img src="https://github.com/ThatGuySam/Lyric-Example-App/blob/master/_github/header-overview.jpg" width="900"  alt="Guts Lyric App - React Native Expo app">
 
 ## Contents
 
@@ -46,24 +46,24 @@ Built as a personal training project for [React Native](https://facebook.github.
 ### Video Preview
 
 <a href="https://expo.io/@skempin/lyrics-king">
-	<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/video.gif" width="350" >
+	<img src="https://github.com/ThatGuySam/Lyric-Example-App/blob/master/_github/screenshots/video.gif" width="350" >
 </a>
 
 ### Search Screen
 
-<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/search.jpg" width="270" alt="Guts Lyric App - Search screen" hspace="5"><img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/suggestions.jpg" width="270" alt="Guts Lyric App - Suggestions on search screen">
+<img src="https://github.com/ThatGuySam/Lyric-Example-App/blob/master/_github/screenshots/search.jpg" width="270" alt="Guts Lyric App - Search screen" hspace="5"><img src="https://github.com/ThatGuySam/Lyric-Example-App/blob/master/_github/screenshots/suggestions.jpg" width="270" alt="Guts Lyric App - Suggestions on search screen">
 
 ### Details Screen
 
-<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/details-ariana.jpg" width="270" hspace="5" alt="Guts Lyric App - Details screen, Ariana Grande"><img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/details-above.jpg" width="270" hspace="5" alt="Guts Lyric App - Details screen, Above and Beyond"><img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/details-dua.jpg" width="270"  alt="Guts Lyric App - Details screen, Dua Lipa">
+<img src="https://github.com/ThatGuySam/Lyric-Example-App/blob/master/_github/screenshots/details-ariana.jpg" width="270" hspace="5" alt="Guts Lyric App - Details screen, Ariana Grande"><img src="https://github.com/ThatGuySam/Lyric-Example-App/blob/master/_github/screenshots/details-above.jpg" width="270" hspace="5" alt="Guts Lyric App - Details screen, Above and Beyond"><img src="https://github.com/ThatGuySam/Lyric-Example-App/blob/master/_github/screenshots/details-dua.jpg" width="270"  alt="Guts Lyric App - Details screen, Dua Lipa">
 
 ### About Screen
 
-<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/about.jpg" width="270" alt="Guts Lyric App - About screen">
+<img src="https://github.com/ThatGuySam/Lyric-Example-App/blob/master/_github/screenshots/about.jpg" width="270" alt="Guts Lyric App - About screen">
 
 ### Navigation (Drawer)
 
-<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/navigation.jpg" width="270" alt="Guts Lyric App - Navigation drawer">
+<img src="https://github.com/ThatGuySam/Lyric-Example-App/blob/master/_github/screenshots/navigation.jpg" width="270" alt="Guts Lyric App - Navigation drawer">
 
 ## [Expo Project Page](https://expo.io/@skempin/lyrics-king)
 
@@ -71,7 +71,7 @@ This project has been built using [Expo](https://expo.io/). Please install `npm 
 
 Scan the below QR code to open the project on Android:
 
-![](https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/qr.png)
+![](https://github.com/ThatGuySam/Lyric-Example-App/blob/master/_github/qr.png)
 
 <br>
 
@@ -154,13 +154,13 @@ Other contributions and suggestions are always very welcome! [Contact me](https:
 
 [Stephen Kempin](https://www.stephenkempin.co.uk)
 
-[Guts Lyric App Project Github](https://github.com/SKempin/Lyrics-King-React-Native)
+[Guts Lyric App Project Github](https://github.com/ThatGuySam/Lyric-Example-App)
 
 ## Google Play Store
 
-View my commercial apps on the [SK-UK Google Play Store](https://play.google.com/store/apps/developer?id=SK+-+UK)
+View my commercial apps on the [Sam Carlton Creative Google Play Store](https://play.google.com/store/apps/developer?id=SK+-+UK)
 
-<a href='https://play.google.com/store/apps/developer?id=SK+-+UK&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='SK-UK Google Play Store' src='https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/google-play.jpg' width='180px'></a>
+<a href='https://play.google.com/store/apps/developer?id=SK+-+UK&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Sam Carlton Creative Google Play Store' src='https://github.com/ThatGuySam/Lyric-Example-App/blob/master/_github/google-play.jpg' width='180px'></a>
 
 ## Donate
 
@@ -170,6 +170,6 @@ If you like this project and wish to say to say thanks - I'm always open to a co
 
 ## License
 
-[MIT](https://github.com/SKempin/Lyrics-King-React-Native/blob/master/LICENSE)
+[MIT](https://github.com/ThatGuySam/Lyric-Example-App/blob/master/LICENSE)
 
-You are welcome to use this however you wish within the MIT license, but please retain [my credentials](https://www.stephenkempin.co.uk/) and links back to [this repo](https://github.com/SKempin/Lyrics-King-React-Native).
+You are welcome to use this however you wish within the MIT license, but please retain [my credentials](https://www.stephenkempin.co.uk/) and links back to [this repo](https://github.com/ThatGuySam/Lyric-Example-App).

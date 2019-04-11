@@ -30,12 +30,11 @@ const Credits = props => (
     })
     }
   >
-    <Image source={SK} style={styles.creditsImage} />
     <Text style={styles.creditsText}>
       Design and development
       {'\n'}
       {' '}
-by Stephen Kempin
+by Sam Carlton Creative
     </Text>
   </TouchableOpacity>
 );

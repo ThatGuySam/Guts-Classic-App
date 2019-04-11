@@ -152,8 +152,6 @@ Other contributions and suggestions are always very welcome! [Contact me](https:
 
 ## Author
 
-[Stephen Kempin](https://www.stephenkempin.co.uk)
-
 [Guts Lyric App Project Github](https://github.com/ThatGuySam/Lyric-Example-App)
 
 ## Google Play Store

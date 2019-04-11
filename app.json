@@ -15,6 +15,12 @@
       "image": "./assets/images/splash.png",
       "resizeMode": "cover"
     },
+    "ios": {
+      "bundleIdentifier": "com.samcarlton.gutslyricapp"
+    },
+    "android": {
+      "package": "com.samcarlton.gutslyricapp"
+    },
     "extra": {
       "appName": "Guts Lyric App",
       "developerName": "Sam Carlton Creative",

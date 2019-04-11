@@ -1,4 +1,4 @@
-# Lyrics King <img src="_github/lk-logo.gif" width="80">
+# Guts Lyric App <img src="_github/lk-logo.gif" width="80">
 
 ![](https://img.shields.io/github/license/SKempin/Lyrics-King-React-Native.svg?style=flat-square)
 ![](https://img.shields.io/github/stars/SKempin/Lyrics-King-React-Native.svg?style=flat-square)
@@ -13,7 +13,7 @@ Built as a personal training project for [React Native](https://facebook.github.
 
 ### [Expo Demo Link](https://expo.io/@skempin/lyrics-king)
 
-<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/header-overview.jpg" width="900"  alt="Lyrics King - React Native Expo app">
+<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/header-overview.jpg" width="900"  alt="Guts Lyric App - React Native Expo app">
 
 ## Contents
 
@@ -51,19 +51,19 @@ Built as a personal training project for [React Native](https://facebook.github.
 
 ### Search Screen
 
-<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/search.jpg" width="270" alt="Lyrics King - Search screen" hspace="5"><img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/suggestions.jpg" width="270" alt="Lyrics King - Suggestions on search screen">
+<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/search.jpg" width="270" alt="Guts Lyric App - Search screen" hspace="5"><img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/suggestions.jpg" width="270" alt="Guts Lyric App - Suggestions on search screen">
 
 ### Details Screen
 
-<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/details-ariana.jpg" width="270" hspace="5" alt="Lyrics King - Details screen, Ariana Grande"><img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/details-above.jpg" width="270" hspace="5" alt="Lyrics King - Details screen, Above and Beyond"><img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/details-dua.jpg" width="270"  alt="Lyrics King - Details screen, Dua Lipa">
+<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/details-ariana.jpg" width="270" hspace="5" alt="Guts Lyric App - Details screen, Ariana Grande"><img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/details-above.jpg" width="270" hspace="5" alt="Guts Lyric App - Details screen, Above and Beyond"><img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/details-dua.jpg" width="270"  alt="Guts Lyric App - Details screen, Dua Lipa">
 
 ### About Screen
 
-<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/about.jpg" width="270" alt="Lyrics King - About screen">
+<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/about.jpg" width="270" alt="Guts Lyric App - About screen">
 
 ### Navigation (Drawer)
 
-<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/navigation.jpg" width="270" alt="Lyrics King - Navigation drawer">
+<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/navigation.jpg" width="270" alt="Guts Lyric App - Navigation drawer">
 
 ## [Expo Project Page](https://expo.io/@skempin/lyrics-king)
 
@@ -154,7 +154,7 @@ Other contributions and suggestions are always very welcome! [Contact me](https:
 
 [Stephen Kempin](https://www.stephenkempin.co.uk)
 
-[Lyrics King Project Github](https://github.com/SKempin/Lyrics-King-React-Native)
+[Guts Lyric App Project Github](https://github.com/SKempin/Lyrics-King-React-Native)
 
 ## Google Play Store
 
